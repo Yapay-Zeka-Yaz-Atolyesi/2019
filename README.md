@@ -3,6 +3,8 @@ Bilgisayar Mühendisleri Odası ve İDEA Kadıköy işbirliği ile gerçekleşti
 
 Grupların çalışma başlıkları aşağıdaki gibidir:
 
+[Grup 1:](https://github.com/Yapay-Zeka-Yaz-Atolyesi/2019/blob/master/calismalar/grup1.ipynb) Geri Dönüşüm Maddelerinin Sınıflandırılması
+
 [Grup 2:](https://github.com/Yapay-Zeka-Yaz-Atolyesi/2019/blob/master/calismalar/grup2.ipynb) Sosyal Medya Verisi İşleme
 
 [Grup 3:](https://github.com/Yapay-Zeka-Yaz-Atolyesi/2019/blob/master/calismalar/grup3.ipynb) Şikayet, öneri, talep ve teşekkür metinlerininden işlem süresi tahmini
